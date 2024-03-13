@@ -5,7 +5,8 @@ Este repositório contém um vídeo demonstrativo que explica o processo de elab
 ## Vídeo Explicativo🎬
 O vídeo disponível neste repositório detalha o passo a passo da construção da aplicação, desde a configuração dos recursos na AWS até a implementação do código para interação com o banco de dados.
 
-<a href='./video.mov'>Link para o vídeo</a>
+<a href='./video.mov'>Vídeo neste repositório</a>
+<a href='https://youtu.be/TGMIdVFUsCQ' target='_blank'>Link do vídeo (YouTube)</a>
 
 ## Detalhes da Aplicação 💻
 A aplicação foi desenvolvida utilizando a linguagem PHP para o backend e frontend. O arquivo SamplePage.php, criado ao seguir o tutorial "https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html", contém o código responsável por apresentar a página web aos usuários e processar os dados enviados pelo formulário.
